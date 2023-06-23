@@ -5,7 +5,7 @@ function App() {
   //Test Commit
   return (
     <div className="App">
-      <h1 className="font-bold">Hello</h1>
+      <h1 className="font-bold">Get it Done</h1>
       <TodoWrapper />
     </div>
   );
